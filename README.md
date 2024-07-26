@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mansi
-- 👀 I’m interested in C programming, python programming, Matlab, cyber security, networking, cloud network
-- 🌱 I’m currently pursuing B.Tech in Electronics and Telecommunication
+- 👀 I’m interested in C programming, python programming, C++ Matlab, cyber security, networking, cloud network
+- 🌱 I’m currently pursuing B.Tech in Electronics and Telecommunication in SIT,Pune
 - 📫 How to reach me https://www.linkedin.com/in/mansi-kulkarni-756b34274/
 - 😄 Pronouns: She/Her
 
